@@ -36,5 +36,5 @@ To run this project locally, follow these steps:
 
    ```bash
    yarn install
-   yarn start
+   yarn dev
    ```
